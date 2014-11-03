@@ -3,7 +3,7 @@
 var graph = require('fbgraph'),
     likedPosts = [],
     lastPost = null,
-    _accessToken = 'CAACEdEose0cBAMzoMOrv66I0ucgyZCnFrRQZAyAfwmGCZCPA04fSZAvUB5aFF90AilRNlJ5xYkZACtkAWRG3KjkqMuhHyYbQm6ziYMBEnDuIL8nPToJ2yEEodGa6GdnV48pY4NMpCVdcxCiZAwXpd84VrdEiGctZCVZAL5ja2up9PePnZCDwFdAqgV3qoTC38t8esUZAl0MEdIkQiwYaQ3Grjr';
+    _accessToken = 'my_token';
 
 graph.setAccessToken(_accessToken);
 

@@ -4,7 +4,7 @@ var graph = require('fbgraph'),
     notifier = require('node-notifier'),
     likedPosts = [],
     lastPost = null,
-    _accessToken = 'CAACEdEose0cBAO0MEhgzMcaFwvooIu3rjCWymjXPZAZCznP92wY328VQyAlbeGO7QBliMXpl7BfazhATvCLOjgY2dBGUSm4AWQPbzAAk0atABm7TpE2h1RpbbpDMqCtzymJ4MNzDQqvcxveQ5Y9ZBZBixip3blZA9YzXWz0zYU70ElMEp5y5ZBzI5SLZBNptFnXpz42ZAZAnyNl8zYUdxuVnh';
+    _accessToken = '';
 
 graph.setAccessToken(_accessToken);
 
